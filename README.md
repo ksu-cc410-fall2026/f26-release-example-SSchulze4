@@ -1,3 +1,1 @@
-# F26 Release Example
-
-**Student:** SSchulze4
+README File
